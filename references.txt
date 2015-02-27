@@ -1,0 +1,7 @@
+--- References
+book: HTLM5/CSS3 book from Murach publishers.
+web: https://developer.mozilla.org/en-US/docs/Web/HTML
+web: http://www.w3schools.com/
+web: http://validator.w3.org/
+web: http://jigsaw.w3.org/css-validator/
+
